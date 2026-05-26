@@ -1,16 +1,46 @@
-# React + Vite
+# 🎧 Birthday Wrapped — A Digital Scrapbook
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A cinematic birthday website inspired by the emotional storytelling of Spotify Wrapped and the warmth of a personal scrapbook/art gallery.
 
-Currently, two official plugins are available:
+Built as a deeply personal experience for someone special — combining memories, photographs, handwritten-style emotions, cinematic layouts, nostalgic storytelling, and interactive sections into one immersive digital letter.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+---
 
-## React Compiler
+## ✨ Concept
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+This project blends:
 
-## Expanding the ESLint configuration
+- 🎵 Spotify Wrapped inspired storytelling
+- 🖼️ Scrapbook / art gallery aesthetics
+- 💌 Personal letters & emotional nostalgia
+- 📸 Memory-driven photo galleries
+- 🌌 Cinematic gradients & ambient UI
+- 🎉 Interactive birthday celebration finale
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+The idea was to create something that feels less like a website and more like walking through memories.
+
+---
+
+## 🛠️ Built With
+
+- React
+- Vite
+- Tailwind CSS
+- Framer Motion
+- Vercel
+
+---
+
+## 🎨 Features
+
+- Smooth scroll-based storytelling
+- Animated scrapbook-style memory gallery
+- Personalized friendship stats
+- Emotional handwritten letter section
+- Interactive confetti celebration
+- Fully responsive modern UI
+- Soft cinematic gradients & glassmorphism
+
+## 📸 Note
+
+All photos and memories used in this project are personal and intentionally curated for storytelling purposes.
